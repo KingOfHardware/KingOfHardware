@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Roger Gerecke from @KingOfHardware
+- 👀 I’m interested in PHP
+- 🌱 I’m currently learning Piano
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me on github
